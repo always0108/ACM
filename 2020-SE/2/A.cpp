@@ -19,7 +19,7 @@ int main(void)
             break;
         }
     }
-    if(flag || n == 2){
+    if(flag){
         cout << "Yes" << endl;
     }else{
         cout << "No" << endl;
